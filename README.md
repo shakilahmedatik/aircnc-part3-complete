@@ -1,4 +1,4 @@
-# AirCNC Part-2 Complete
+# AirCNC Part-3 Complete
 
 ## Live Link:
 Hosted in Firebase -> [AirCNC](https://aircnc-68403.web.app/)
