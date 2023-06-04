@@ -7,7 +7,7 @@ import UpdateRoomModal from '../Modal/UpdateRoomModal'
 
 const RoomDataRow = ({ room, refetch }) => {
   let [isOpen, setIsOpen] = useState(false)
-  const [isEditModalOpen, setIsEditModalOpen] = useState(false)
+
   function openModal() {
     setIsOpen(true)
   }
